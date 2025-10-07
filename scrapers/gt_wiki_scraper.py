@@ -12,7 +12,7 @@ class GTWikiScraper(BaseScraper):
 
     def __init__(self):
         """
-        Initializes the GTWikiScraper with the base URL of the GT Student Wiki.
+        jsjsjsjsjsInitializes the GTWikiScraper with the base URL of the GT Student Wiki.
         """
         super().__init__(base_url='https://gt-student-wiki.org')
 
